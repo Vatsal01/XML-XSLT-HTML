@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Lab2Task4XSLT.xsl" type="text/xsl" ?>
+<authordetails>
+ <author ID="1">
+   <name>Brad Johnson</name>
+  <title>String Theory </title>
+  </author>
+  
+  <author ID="2">
+   <name>Adam hofstader</name>
+  <title>Wireless Technology</title>
+  </author>
+  <author ID="3">
+   <name> Chris Patt</name>
+  <title>Autonomous Vehicle</title>
+  </author>
+  <author ID="4">
+   <name>Thomas Muller</name>
+  <title>Machine Learning</title>
+  </author>
+ </authordetails> 
